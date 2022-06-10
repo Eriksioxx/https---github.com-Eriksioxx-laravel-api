@@ -1,5 +1,5 @@
 @extends ('layouts.front-app')
 
 @section('content')
-    Work in progress
+    Work in progress!! rework
 @endsection
